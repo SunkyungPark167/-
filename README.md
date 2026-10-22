@@ -1,4 +1,2 @@
-# 청소년시대연합을 설명하기 위해 제작된 홈페이지 입니다.
-
-청시대 = 청시대(청소년시대연합)
-print(청시대)
+cd C:\Users\WhiteFox\Downloads
+python -m streamlit run "study_planner (5).py"
